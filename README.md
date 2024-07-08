@@ -1,6 +1,12 @@
 # 4stroprompt
 A prompt plugin form [zimfw](https://github.com/zimfw/zimfw)
 
+## Installation
+Put this into your .zimrc file
+
+    zmodule 4strodev/4stroprompt
+
+## Features
 
 ### Minimalist
 ![prompt](./.github/img/prompt.png)
