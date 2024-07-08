@@ -1,5 +1,7 @@
 # 4stroprompt
-A prompt plugin form [zimfw](https://github.com/zimfw/zimfw)
+A prompt plugin form [zimfw](https://github.com/zimfw/zimfw).
+It is mainly inspired by gitster theme and [CodelyTV](https://github.com/CodelyTV)
+prompt.
 
 ## Installation
 Put this into your .zimrc file
